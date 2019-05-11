@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2d14265-ab7c-4498-8c62-0f351da52772" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/git-localconfig-repo/limits-service-qa.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-localconfig-repo/limits-service-qa.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-localconfig-repo/limits-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-localconfig-repo/limits-service.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/limits-service/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/currency-exchange-service/target/" />
+    <ignored path="$PROJECT_DIR$/currency-conversion-service/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-eureka-naming-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-api-gateway-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/limits-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/LimitsServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/controllers/LimitsConfigurationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#1060#1061#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-localconfig-repo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/models/LimitConfiguration.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/properties/Configuration.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/java/course/udemy/springcloudconfigserver/SpringCloudConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-qa.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-qa.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/models/ExchangeValue.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/repositories/ExchangeValueRepository.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/models/CurrencyConversionModel.java" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/course/udemy/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/course/udemy/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/CurrencyExchangeServiceApplication.java" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/course/udemy/netflixzuulapigatewayserver/filter/ZuulLogginFilter.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/controllers/CurrencyConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/controllers/CurrencyExchangeController.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/services/proxy/CurrencyExchangeServiceProxy.java" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/git-localconfig-repo/limits-service.yml" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/LimitsServiceApplication.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/controllers/LimitsConfigurationController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="git-localconfig-repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="limitsservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="limitsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="master-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="master-microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="netflix-zuul-api-gateway-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="course.udemy.currencyexchangeservice.models" />
+      <recent name="course.udemy.limitsservice.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.limits-service">
+    <configuration name="currency-conversion-service" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <module name="currency-conversion-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="currency-exchange-service-8001" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <module name="currency-exchange-service" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="currency-exchange-service" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <module name="currency-exchange-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="limits-service" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.limitsservice.LimitsServiceApplication" />
+      <module name="limits-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="netflix-eureka-naming-server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.netflixeurekanamingserver.NetflixEurekaNamingServerApplication" />
+      <module name="netflix-eureka-naming-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="netflix-zuul-api-gateway-server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication" />
+      <module name="netflix-zuul-api-gateway-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spring-cloud-config-server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="course.udemy.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <module name="spring-cloud-config-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.currency-conversion-service" />
+      <item itemvalue="Application.currency-exchange-service-8001" />
+      <item itemvalue="Application.currency-exchange-service" />
+      <item itemvalue="Application.limits-service" />
+      <item itemvalue="Application.netflix-eureka-naming-server" />
+      <item itemvalue="Application.netflix-zuul-api-gateway-server" />
+      <item itemvalue="Application.spring-cloud-config-server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d14265-ab7c-4498-8c62-0f351da52772" name="Default Changelist" comment="" />
+      <created>1556991845291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556991845291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28334257" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40066594" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963374" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/models/LimitConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/properties/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service.yml" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-qa.yml" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java/course/udemy/springcloudconfigserver/SpringCloudConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar!/lombok/Data.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/models/ExchangeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/models/CurrencyConversionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/course/udemy/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/course/udemy/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/course/udemy/netflixzuulapigatewayserver/filter/ZuulLogginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/services/proxy/CurrencyExchangeServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/controllers/CurrencyConversionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/controllers/CurrencyExchangeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/course/udemy/currencyconversionservice/CurrencyConversionServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/course/udemy/currencyexchangeservice/repositories/ExchangeValueRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-localconfig-repo/limits-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="73" selection-start-line="36" selection-start-column="73" selection-end-line="36" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/LimitsServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/course/udemy/limitsservice/controllers/LimitsConfigurationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
